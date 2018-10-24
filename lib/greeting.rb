@@ -3,7 +3,7 @@
  
 def greeting(name)
  
-var name = Sally
+
 
  
  end
