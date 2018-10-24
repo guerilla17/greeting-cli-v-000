@@ -1,6 +1,6 @@
 # code the #greeting method here!
 
-var name = "Sally"
+ 
  
 def greeting(name)
  
